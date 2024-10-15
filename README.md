@@ -80,7 +80,9 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/97150353-194f-452e-a6c0-eba18efb8a10)
+
+![image](https://github.com/user-attachments/assets/2437c954-53b7-4e36-983b-5e8bff5877a0)
+
 
 ## RESULT:
 The program for the RSA algorithm is executed successfully, demonstrating both encryption and decryption.
